@@ -19,7 +19,7 @@ class Secondsection extends Component {
            </div>
                 </div>
                 <div className="container-fluid secondpart">
-
+jkfdjkdfjfjkfdkjnisnviosnbvidsnvosdjnvoidsivndsiovnidsnvi
                 <div className="row">
                 <div className="col-md-4">
                 <div className="placement">
