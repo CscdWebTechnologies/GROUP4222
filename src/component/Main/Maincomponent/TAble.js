@@ -15,7 +15,7 @@ class Table extends Component {
   <thead>
     <tr className="td">
       <th >#</th>
-        <th  colspan="5">Name</th>
+        <th   colspan="5">Name</th>
       <th scope="col">Price</th>
       <th scope="col">Change</th>
       <th scope="col">Chart</th>
@@ -31,7 +31,9 @@ class Table extends Component {
       </div></td>
       <td >GHS 250,309.89</td>
       <td  className="number">-4.7%</td>
-      <td ></td>
+      <td>
+           ------
+     </td>
       <td ><button  className="btn btn-success">Buy</button></td>
     </tr>
     <tr className="td">
@@ -42,7 +44,7 @@ class Table extends Component {
       </td>
       <td> GHS 18,804.23</td>
       <td className="number">-9.3%</td>
-      <td >Price</td>
+      <td >----</td>
       <td  ><button className="btn btn-success">Buy</button></td>
     </tr>
     <tr className="td">
@@ -52,7 +54,7 @@ class Table extends Component {
           <p>Bitcoin Cash <span  className="abb">BCH</span></p></td>
       <td>GHS 6,096.11</td>
       <td className="number">-7.44%</td>
-      <td >Change</td>
+      <td >--------</td>
       <td> <button className="btn btn-success">Buy</button></td>
      
     
@@ -65,7 +67,7 @@ class Table extends Component {
           <p>Litecoin <span className="abb" >LTC</span></p></td>
       <td >GHS 1,615.11</td>
       <td className="number" >-2.88%</td>
-      <td >Change</td>
+      <td >----------</td>
       <td> <button className="btn btn-success">Buy</button></td>
      
     

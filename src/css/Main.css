@@ -191,6 +191,7 @@ color:green}
     background-color: rgb(61, 61, 255);
     color: white;
     padding: 48px;
+    margin: 70px 0px 40px 0px;
 
   }
   
@@ -251,7 +252,7 @@ color:green}
   }
 
   .container-fluid1 {
-    margin-top: 40px;
+    margin: 70px 0px 60px 0px;
     background-color: rgb(233, 246, 255);
     margin-bottom: 25px
   }
